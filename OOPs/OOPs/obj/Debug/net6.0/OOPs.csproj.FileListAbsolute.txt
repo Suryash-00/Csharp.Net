@@ -1,0 +1,15 @@
+C:\Users\Suryash\source\repos\OOPs\OOPs\bin\Debug\net6.0\OOPs.exe
+C:\Users\Suryash\source\repos\OOPs\OOPs\bin\Debug\net6.0\OOPs.deps.json
+C:\Users\Suryash\source\repos\OOPs\OOPs\bin\Debug\net6.0\OOPs.runtimeconfig.json
+C:\Users\Suryash\source\repos\OOPs\OOPs\bin\Debug\net6.0\OOPs.dll
+C:\Users\Suryash\source\repos\OOPs\OOPs\bin\Debug\net6.0\OOPs.pdb
+C:\Users\Suryash\source\repos\OOPs\OOPs\obj\Debug\net6.0\OOPs.csproj.AssemblyReference.cache
+C:\Users\Suryash\source\repos\OOPs\OOPs\obj\Debug\net6.0\OOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suryash\source\repos\OOPs\OOPs\obj\Debug\net6.0\OOPs.AssemblyInfoInputs.cache
+C:\Users\Suryash\source\repos\OOPs\OOPs\obj\Debug\net6.0\OOPs.AssemblyInfo.cs
+C:\Users\Suryash\source\repos\OOPs\OOPs\obj\Debug\net6.0\OOPs.csproj.CoreCompileInputs.cache
+C:\Users\Suryash\source\repos\OOPs\OOPs\obj\Debug\net6.0\OOPs.dll
+C:\Users\Suryash\source\repos\OOPs\OOPs\obj\Debug\net6.0\refint\OOPs.dll
+C:\Users\Suryash\source\repos\OOPs\OOPs\obj\Debug\net6.0\OOPs.pdb
+C:\Users\Suryash\source\repos\OOPs\OOPs\obj\Debug\net6.0\OOPs.genruntimeconfig.cache
+C:\Users\Suryash\source\repos\OOPs\OOPs\obj\Debug\net6.0\ref\OOPs.dll
