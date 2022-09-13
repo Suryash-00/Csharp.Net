@@ -1,0 +1,15 @@
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\obj\Debug\net6.0\Miscellaneous.csproj.AssemblyReference.cache
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\obj\Debug\net6.0\Miscellaneous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\obj\Debug\net6.0\Miscellaneous.AssemblyInfoInputs.cache
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\obj\Debug\net6.0\Miscellaneous.AssemblyInfo.cs
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\obj\Debug\net6.0\Miscellaneous.csproj.CoreCompileInputs.cache
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\bin\Debug\net6.0\Miscellaneous.exe
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\bin\Debug\net6.0\Miscellaneous.deps.json
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\bin\Debug\net6.0\Miscellaneous.runtimeconfig.json
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\bin\Debug\net6.0\Miscellaneous.dll
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\bin\Debug\net6.0\Miscellaneous.pdb
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\obj\Debug\net6.0\Miscellaneous.dll
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\obj\Debug\net6.0\refint\Miscellaneous.dll
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\obj\Debug\net6.0\Miscellaneous.pdb
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\obj\Debug\net6.0\Miscellaneous.genruntimeconfig.cache
+C:\Users\Suryash\source\repos\Miscellaneous\Miscellaneous\obj\Debug\net6.0\ref\Miscellaneous.dll

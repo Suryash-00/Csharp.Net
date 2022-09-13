@@ -1,0 +1,15 @@
+C:\Users\Suryash\source\repos\Functions\Functions\bin\Debug\net6.0\Functions.exe
+C:\Users\Suryash\source\repos\Functions\Functions\bin\Debug\net6.0\Functions.deps.json
+C:\Users\Suryash\source\repos\Functions\Functions\bin\Debug\net6.0\Functions.runtimeconfig.json
+C:\Users\Suryash\source\repos\Functions\Functions\bin\Debug\net6.0\Functions.dll
+C:\Users\Suryash\source\repos\Functions\Functions\bin\Debug\net6.0\Functions.pdb
+C:\Users\Suryash\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.csproj.AssemblyReference.cache
+C:\Users\Suryash\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suryash\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.AssemblyInfoInputs.cache
+C:\Users\Suryash\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.AssemblyInfo.cs
+C:\Users\Suryash\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\Suryash\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.dll
+C:\Users\Suryash\source\repos\Functions\Functions\obj\Debug\net6.0\refint\Functions.dll
+C:\Users\Suryash\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.pdb
+C:\Users\Suryash\source\repos\Functions\Functions\obj\Debug\net6.0\Functions.genruntimeconfig.cache
+C:\Users\Suryash\source\repos\Functions\Functions\obj\Debug\net6.0\ref\Functions.dll
