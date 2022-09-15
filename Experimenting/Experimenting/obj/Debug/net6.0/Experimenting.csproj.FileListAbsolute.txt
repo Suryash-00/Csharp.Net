@@ -1,0 +1,15 @@
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\bin\Debug\net6.0\Experimenting.exe
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\bin\Debug\net6.0\Experimenting.deps.json
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\bin\Debug\net6.0\Experimenting.runtimeconfig.json
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\bin\Debug\net6.0\Experimenting.dll
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\bin\Debug\net6.0\Experimenting.pdb
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\obj\Debug\net6.0\Experimenting.csproj.AssemblyReference.cache
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\obj\Debug\net6.0\Experimenting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\obj\Debug\net6.0\Experimenting.AssemblyInfoInputs.cache
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\obj\Debug\net6.0\Experimenting.AssemblyInfo.cs
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\obj\Debug\net6.0\Experimenting.csproj.CoreCompileInputs.cache
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\obj\Debug\net6.0\Experimenting.dll
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\obj\Debug\net6.0\refint\Experimenting.dll
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\obj\Debug\net6.0\Experimenting.pdb
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\obj\Debug\net6.0\Experimenting.genruntimeconfig.cache
+C:\Users\Suryash\source\repos\Experimenting\Experimenting\obj\Debug\net6.0\ref\Experimenting.dll
