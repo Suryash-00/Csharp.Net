@@ -50,6 +50,7 @@ namespace Functions
     }
 }
 */
+/*
 namespace Functions
 //Out Parameter is useful when passing more than 1 value.
 {
@@ -73,6 +74,28 @@ namespace Functions
             Console.WriteLine("Value before passing \n val1 = " + val1 + " \n val2 = " + val2);
             program.Show(out val1, out val2); // Passing out argument  
             Console.WriteLine("Value after passing \n val1 = " + val1 + " \n val2 = " + val2);
+        }
+    }
+}
+*/
+namespace Functions
+{
+    class MethodOverloading
+    {
+        static int PlusMethod(int x, int y)
+        {
+            Console.WriteLine(x + y);
+            return x + y;
+        }
+        static double PlusMethod(double x, double y)
+        {
+            Console.WriteLine(x + y);
+            return x + y;
+        }
+        static void Main(string[] args)
+        {
+            int myNum1 = PlusMethod(8, 5);
+            double myNum2 = PlusMethod(4.3, 6.26);
         }
     }
 }
