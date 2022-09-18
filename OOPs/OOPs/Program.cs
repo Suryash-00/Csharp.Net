@@ -190,6 +190,8 @@ class Program
     }
 }
 */
+
+/*
         //Abstraction
 // Abstract class
 abstract class Animal
@@ -220,5 +222,57 @@ class Program
         Pig myPig = new Pig(); // Create a Pig object
         myPig.animalSound();  // Call the abstract method
         myPig.sleep();  // Call the regular method
+    }
+}
+*/
+
+        //Polymorphism 2
+
+public class Employee
+{
+    public string FirstName = "FN";
+    public string LastName = "LN";
+    
+    public virtual void PrintFullName()
+    {
+        Console.WriteLine($"{FirstName} {LastName}");
+    }
+}
+public class PartTimeEmployee: Employee
+{
+    public override void PrintFullName()
+    {
+        Console.WriteLine($"{FirstName} {LastName} - Part Time Employee");
+    }
+}
+public class FullTimeEmployee: Employee
+{
+    public override void PrintFullName()
+    {
+        Console.WriteLine($"{FirstName} {LastName} - Full Time Employee");
+    }
+}
+public class TemporaryEmployee: Employee
+{
+    public override void PrintFullName()
+    {
+        Console.WriteLine($"{FirstName} {LastName} - Temporary Employee");
+    }
+}
+
+public class Program
+{
+    public static void Main()
+    {
+        Employee[] employees = new Employee[4];
+        employees[0]= new Employee();
+        employees[1]= new PartTimeEmployee();
+        employees[2]= new FullTimeEmployee();
+        employees[3]= new TemporaryEmployee();
+
+        foreach (Employee e in employees)
+        {
+            e.PrintFullName();
+        }
     }
 }
