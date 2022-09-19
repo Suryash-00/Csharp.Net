@@ -226,6 +226,7 @@ class Program
 }
 */
 
+/*
         //Polymorphism 2
 
 public class Employee
@@ -274,5 +275,67 @@ public class Program
         {
             e.PrintFullName();
         }
+    }
+}
+*/
+
+        //Properties
+
+public class Student
+{
+    private int _id;
+    private string _name;
+    private int _passMarks=40;
+
+    public string Name
+    {
+        set
+        {
+            if(string.IsNullOrEmpty(value))
+            {
+                throw new Exception("Name cannot pe empty");
+            }
+            this._name = value;
+        }
+        get
+        {
+            return string.IsNullOrEmpty(this._name) ? "No Name" : this._name;
+        }
+    }
+    public int Id
+    {
+        set
+        {
+            if(value <= 0)
+            {
+                throw new Exception("Student ID cannot be negative");
+            }
+            this._id = value;
+        }
+        get
+        {
+            return this._id;
+        }
+    }
+    public int PassMarks
+    {
+        get
+        {
+            return this._passMarks;
+        }
+    }
+}
+
+public class Program
+{
+    public static void Main()
+    {
+        Student C1 = new Student();
+        C1.Id = 101;
+        C1.Name = "Suryash";
+
+        Console.WriteLine($"Student ID = {C1.Id}");
+        Console.WriteLine($"Student Name = {C1.Name}");
+        Console.WriteLine($"Passing Marks = {C1.PassMarks}");
     }
 }
