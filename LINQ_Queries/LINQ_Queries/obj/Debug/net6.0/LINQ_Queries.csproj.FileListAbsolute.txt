@@ -1,0 +1,15 @@
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\bin\Debug\net6.0\LINQ_Queries.exe
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\bin\Debug\net6.0\LINQ_Queries.deps.json
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\bin\Debug\net6.0\LINQ_Queries.runtimeconfig.json
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\bin\Debug\net6.0\LINQ_Queries.dll
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\bin\Debug\net6.0\LINQ_Queries.pdb
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\obj\Debug\net6.0\LINQ_Queries.csproj.AssemblyReference.cache
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\obj\Debug\net6.0\LINQ_Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\obj\Debug\net6.0\LINQ_Queries.AssemblyInfoInputs.cache
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\obj\Debug\net6.0\LINQ_Queries.AssemblyInfo.cs
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\obj\Debug\net6.0\LINQ_Queries.csproj.CoreCompileInputs.cache
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\obj\Debug\net6.0\LINQ_Queries.dll
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\obj\Debug\net6.0\refint\LINQ_Queries.dll
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\obj\Debug\net6.0\LINQ_Queries.pdb
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\obj\Debug\net6.0\LINQ_Queries.genruntimeconfig.cache
+C:\Users\Suryash\source\repos\LINQ_Queries\LINQ_Queries\obj\Debug\net6.0\ref\LINQ_Queries.dll
