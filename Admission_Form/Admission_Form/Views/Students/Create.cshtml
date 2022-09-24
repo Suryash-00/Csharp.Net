@@ -1,0 +1,37 @@
+﻿@model Students
+@{
+    ViewData["Title"] = "Create";
+}
+<h1>Create</h1>
+<form method="post">
+    <p>
+        <label asp-for="Name">Your Name:</label>
+        <input asp-for="Name" />
+    </p>
+    <p>
+        <label asp-for="Age">Your Age:</label>
+        <input asp-for="Age" />
+    </p>
+    <p>
+        <label asp-for="Class">Class:</label>
+        <select asp-for="Class">
+            <option value="VI">VI</option>
+            <option value="VII">VII</option>
+            <option value="VIII">VIII</option>
+            <option value="IX">IX</option>
+            <option value="X">X</option>
+            <option value="XI">XI</option>
+            <option value="XII">XII</option>
+        </select>
+    </p>
+    <p>
+        <label asp-for="Location">Location:</label>
+        <input asp-for="Location" />
+    </p>
+    <p>
+        <label asp-for="Sex">Your Sex:</label>
+        <input type="radio" asp-for="Sex" value="M" /> Male
+        <input type="radio" asp-for="Sex" value="F" /> Female
+    </p>
+    <p><button type="submit">Submit</button></p>
+</form>
