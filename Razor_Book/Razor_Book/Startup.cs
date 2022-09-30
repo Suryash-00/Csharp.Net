@@ -22,10 +22,10 @@ namespace Razor_Book
             }
 
             //app.UseDefaultFiles();
-            app.UseFileServer();    //Combination of UseDefaultFiles, UseStaticFiles and UseDirectoryBrowser
-            //app.UseStaticFiles();
+            //app.UseFileServer();    //Combination of UseDefaultFiles, UseStaticFiles and UseDirectoryBrowser
+            app.UseStaticFiles();
 
-            app.Run(async context => await context.Response.WriteAsync("Hello World!"));
+            app.Run(async context => await context.Response.WriteAsync("Hosting Environment:" + env.EnvironmentName));
         }
     }
 }
