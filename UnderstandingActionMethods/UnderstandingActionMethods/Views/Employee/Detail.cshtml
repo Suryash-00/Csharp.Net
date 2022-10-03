@@ -1,0 +1,27 @@
+﻿@model Employee
+
+<h2>Fill and submit the form</h2>
+
+@{
+    if (Model != null)
+    {
+        <h3 class="p-3 mb-2 bg-success text-white">
+            Employee details: @Model.Id, @Model.Name, @Model.Salary,
+            @Model.Designation, @Model.Address
+        </h3>
+    }
+}
+
+<form method="post">
+    <div class="form-group">
+        <label>Id:</label>
+        <input class="form-control" name="id" />
+    </div>
+    <div class="form-group">
+        <label>Name:</label>
+        <input class="form-control" name="name" />
+    </div>
+    <div class="m-1">
+        <button class="btn btn-primary" type="submit">Submit</button>
+    </div>
+</form>
