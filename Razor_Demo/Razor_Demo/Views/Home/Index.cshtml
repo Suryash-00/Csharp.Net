@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@*
+<h3>Current Date and Time is @DateTime.Now</h3>
+<h3>Current year is @DateTime.Now.Year</h3>
+*@
+
+@*
+@{
+    string name = "Suryash Rastogi";
+    var currentDate = DateTime.Now.ToLongDateString();
+}
+
+
+<h2>@name</h2>
+<h2>@currentDate</h2>
+*@
+
+@*
+@{
+    int per = 85;
+    if(per>=80)
+    {
+        <h1>A+ Grade</h1>
+    }
+    else{
+        <h1>A Grade</h1>
+    }
+}
+*@
+
+@{
+    string[] myarr = { "Suryash", "Yash", "Daksh" };
+    foreach(var item in myarr)
+    {
+        <h2>@item</h2>
+    }
+}

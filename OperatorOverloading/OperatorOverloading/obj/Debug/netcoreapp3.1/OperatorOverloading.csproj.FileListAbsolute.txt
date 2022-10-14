@@ -1,0 +1,14 @@
+C:\Users\Suryash\source\repos\OperatorOverloading\OperatorOverloading\bin\Debug\netcoreapp3.1\OperatorOverloading.exe
+C:\Users\Suryash\source\repos\OperatorOverloading\OperatorOverloading\bin\Debug\netcoreapp3.1\OperatorOverloading.deps.json
+C:\Users\Suryash\source\repos\OperatorOverloading\OperatorOverloading\bin\Debug\netcoreapp3.1\OperatorOverloading.runtimeconfig.json
+C:\Users\Suryash\source\repos\OperatorOverloading\OperatorOverloading\bin\Debug\netcoreapp3.1\OperatorOverloading.runtimeconfig.dev.json
+C:\Users\Suryash\source\repos\OperatorOverloading\OperatorOverloading\bin\Debug\netcoreapp3.1\OperatorOverloading.dll
+C:\Users\Suryash\source\repos\OperatorOverloading\OperatorOverloading\bin\Debug\netcoreapp3.1\OperatorOverloading.pdb
+C:\Users\Suryash\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\netcoreapp3.1\OperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\Suryash\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\netcoreapp3.1\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suryash\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\netcoreapp3.1\OperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\Suryash\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\netcoreapp3.1\OperatorOverloading.AssemblyInfo.cs
+C:\Users\Suryash\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\netcoreapp3.1\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Suryash\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\netcoreapp3.1\OperatorOverloading.dll
+C:\Users\Suryash\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\netcoreapp3.1\OperatorOverloading.pdb
+C:\Users\Suryash\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\netcoreapp3.1\OperatorOverloading.genruntimeconfig.cache
