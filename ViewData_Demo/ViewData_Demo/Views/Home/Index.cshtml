@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@ViewData["var1"]
+<br />
+@ViewData["var2"]
+
+@{
+    foreach(var item in (string[])ViewData["var3"])
+    {
+        <h3>@item</h3>
+    }
+}
+
+@{
+    foreach(var item in (List<string>)ViewData["var4"])
+    {
+        <h3>@item</h3>
+    }
+}
+
+@{
+    var a = (ViewData_Demo.Models.Student)ViewData["var5"];
+}
+<h2>@a.Name</h2>
+<h2>@a.Sex</h2>
+<h2>@a.Standard</h2>
