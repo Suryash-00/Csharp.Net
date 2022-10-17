@@ -1,5 +1,33 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@{
+    ViewData["Title"] = "Index";
 }
+
+<h1>Index</h1>
+
+@ViewBag.var1
+<br />
+@ViewBag.var2
+
+@{
+    foreach (var item in ViewBag.var3)
+    {
+        <h3>@item</h3>
+    }
+}
+
+<br />
+
+@{
+    foreach (var item in ViewBag.var4)
+    {
+        <h3>@item</h3>
+    }
+}
+<br />
+
+@{
+    var data = ViewBag.var5;
+}
+<h2>@data.Name</h2>
+<h2>@data.Designation</h2>
+<h2>@data.City</h2>
