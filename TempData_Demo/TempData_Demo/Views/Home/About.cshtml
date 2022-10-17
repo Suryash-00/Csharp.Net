@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+
+<h1>About</h1>
+
+@ViewData["var1"]
+@ViewBag.var2
+@TempData["var3"]
+
+@{
+    foreach (var item in (string[])TempData["var4"])
+    {
+        <h2>@item</h2>
+    }
+}

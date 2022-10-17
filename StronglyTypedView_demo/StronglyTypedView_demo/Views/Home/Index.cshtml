@@ -1,0 +1,25 @@
+﻿@* @model StronglyTypedView_demo.Models.Employee        //for binding single object *@
+@* @model List<StronglyTypedView_demo.Models.Employee>      //for binding multiple objects *@ 
+@model IEnumerable<StronglyTypedView_demo.Models.Employee>      //for binding multiple objects
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<br />
+
+<!--
+<h2>@*@Model.Name</h2>
+<h2>@Model.Sex</h2>
+<h2>@Model.Designation</h2> *@
+-->
+
+@{
+    foreach(var item in Model)
+    {
+        <h2>@item.Name</h2>
+        <h2>@item.Sex</h2>
+        <h2>@item.Designation</h2>
+    }
+}
