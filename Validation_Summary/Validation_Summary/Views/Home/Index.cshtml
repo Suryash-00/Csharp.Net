@@ -1,0 +1,51 @@
+﻿@model Validation_Summary.Models.Employee
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <div>
+        <div>
+            <form asp-controller="Home" asp-action="Index" method="post">
+                <label asp-for="Name"></label>
+                <input asp-for="Name"/>
+                <span style="color:red" asp-validation-for="Name"></span>
+                <br />
+
+                <label asp-for="Gender"></label>
+                <input asp-for="Gender" />
+                <span style="color:red" asp-validation-for="Gender"></span>
+                <br />
+
+                <label asp-for="Age"></label>
+                <input asp-for="Age" />
+                <span style="color:red" asp-validation-for="Age"></span>
+                <br />
+
+                <label asp-for="Email"></label>
+                <input asp-for="Email" />
+                <span style="color:red" asp-validation-for="Email"></span>
+                <br />
+
+
+                <label asp-for="Password"></label>
+                <input asp-for="Password" />
+                <span style="color:red" asp-validation-for="Password"></span>
+                <br />
+
+                <label asp-for="ConfirmPassword"></label>
+                <input asp-for="ConfirmPassword" />
+                <span style="color:red" asp-validation-for="ConfirmPassword"></span>
+                <br />
+
+                <label asp-for="ChannelURL"></label>
+                <input asp-for="ChannelURL" />
+                <span style="color:red" asp-validation-for="ChannelURL"></span>
+                <br />
+
+                <input type="submit" value="Submit" />
+            </form>
+        </div>
+    </div>
+</div>

@@ -6265,9 +6265,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suryash\\source\\repos\\Form_Required_Validation\\Form_Required_Validation\\Form_Required_Validation.csproj",
-      "projectName": "Form_Required_Validation",
-      "projectPath": "C:\\Users\\Suryash\\source\\repos\\Form_Required_Validation\\Form_Required_Validation\\Form_Required_Validation.csproj",
+      "projectUniqueName": "C:\\Users\\Suryash\\source\\repos\\Form_Required_Validation\\Form_Required_Validation\\Form_Validation.csproj",
+      "projectName": "Form_Validation",
+      "projectPath": "C:\\Users\\Suryash\\source\\repos\\Form_Required_Validation\\Form_Required_Validation\\Form_Validation.csproj",
       "packagesPath": "C:\\Users\\Suryash\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Suryash\\source\\repos\\Form_Required_Validation\\Form_Required_Validation\\obj\\",
       "projectStyle": "PackageReference",

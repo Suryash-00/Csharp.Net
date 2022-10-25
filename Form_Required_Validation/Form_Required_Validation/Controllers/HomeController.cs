@@ -1,4 +1,4 @@
-﻿using Form_Required_Validation.Models;
+﻿using Form_Required_Validation.Models.Employee;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Form_Required_Validation.Controllers
@@ -27,5 +27,9 @@ namespace Form_Required_Validation.Controllers
                 return "Validation Failed";
             }
         }*/
+    }
+
+    public class Employee
+    {
     }
 }

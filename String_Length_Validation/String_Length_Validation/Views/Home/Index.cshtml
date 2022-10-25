@@ -1,0 +1,30 @@
+﻿@model String_Length_Validation.Models.Employee
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <div>
+        <div>
+            <form asp-controller="Home" asp-action="Index" method="post">
+                <label asp-for="Name"></label>
+                <input asp-for="Name"/>
+                <span style="color:red" asp-validation-for="Name"></span>
+                <br />
+
+                <label asp-for="Gender"></label>
+                <input asp-for="Gender" />
+                <span style="color:red" asp-validation-for="Gender"></span>
+                <br />
+
+                <label asp-for="Age"></label>
+                <input asp-for="Age" />
+                <span style="color:red" asp-validation-for="Age"></span>
+                <br />
+
+                <input type="submit" value="Submit" />
+            </form>
+        </div>
+    </div>
+</div>

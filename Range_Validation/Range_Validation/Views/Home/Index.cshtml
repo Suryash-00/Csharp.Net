@@ -1,0 +1,47 @@
+﻿@model Regular_Expressions.Models.Employee
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <div>
+        <div>
+            <div style="color:red" asp-validation-summary="All">
+
+            </div>
+            <form asp-controller="Home" asp-action="Index" method="post">
+                <label asp-for="Name"></label>
+                <input asp-for="Name"/>
+                <br />
+
+                <label asp-for="Gender"></label>
+                <input asp-for="Gender" />
+                <br />
+
+                <label asp-for="Age"></label>
+                <input asp-for="Age" />
+                <br />
+
+                <label asp-for="Email"></label>
+                <input asp-for="Email" />
+                <br />
+
+
+                <label asp-for="Password"></label>
+                <input asp-for="Password" />
+                <br />
+
+                <label asp-for="ConfirmPassword"></label>
+                <input asp-for="ConfirmPassword" />
+                <br />
+
+                <label asp-for="ChannelURL"></label>
+                <input asp-for="ChannelURL" />
+                <br />
+
+                <input type="submit" value="Submit" />
+            </form>
+        </div>
+    </div>
+</div>
