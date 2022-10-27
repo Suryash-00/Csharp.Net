@@ -1,11 +1,12 @@
 ﻿using System;
 
-namespace Property_Injection
+namespace Method_Injection
 {
     public interface IAccount
     {
         void printDetails();
     }
+
     class CurrentAccount : IAccount
     {
         public void printDetails()
@@ -24,9 +25,7 @@ namespace Property_Injection
 
     class Account
     {
-        public IAccount account { get; set; }
-
-        public void printAccounts()
+        public void printAccounts(IAccount account)
         {
             account.printDetails();
         }
@@ -35,13 +34,11 @@ namespace Property_Injection
     {
         static void Main(string[] args)
         {
-            Account sa = new Account();
-            sa.account = new SavingsAccount();
-            sa.printAccounts();
+            Account sa= new Account();
+            sa.printAccounts(new SavingsAccount());
 
             Account ca = new Account();
-            ca.account = new CurrentAccount();
-            ca.printAccounts();
+            ca.printAccounts(new CurrentAccount());
         }
     }
 }
