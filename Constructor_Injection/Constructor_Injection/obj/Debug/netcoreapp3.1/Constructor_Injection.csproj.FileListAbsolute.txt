@@ -1,0 +1,14 @@
+C:\Users\Suryash\source\repos\Constructor_Injection\Constructor_Injection\bin\Debug\netcoreapp3.1\Constructor_Injection.exe
+C:\Users\Suryash\source\repos\Constructor_Injection\Constructor_Injection\bin\Debug\netcoreapp3.1\Constructor_Injection.deps.json
+C:\Users\Suryash\source\repos\Constructor_Injection\Constructor_Injection\bin\Debug\netcoreapp3.1\Constructor_Injection.runtimeconfig.json
+C:\Users\Suryash\source\repos\Constructor_Injection\Constructor_Injection\bin\Debug\netcoreapp3.1\Constructor_Injection.runtimeconfig.dev.json
+C:\Users\Suryash\source\repos\Constructor_Injection\Constructor_Injection\bin\Debug\netcoreapp3.1\Constructor_Injection.dll
+C:\Users\Suryash\source\repos\Constructor_Injection\Constructor_Injection\bin\Debug\netcoreapp3.1\Constructor_Injection.pdb
+C:\Users\Suryash\source\repos\Constructor_Injection\Constructor_Injection\obj\Debug\netcoreapp3.1\Constructor_Injection.csproj.AssemblyReference.cache
+C:\Users\Suryash\source\repos\Constructor_Injection\Constructor_Injection\obj\Debug\netcoreapp3.1\Constructor_Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suryash\source\repos\Constructor_Injection\Constructor_Injection\obj\Debug\netcoreapp3.1\Constructor_Injection.AssemblyInfoInputs.cache
+C:\Users\Suryash\source\repos\Constructor_Injection\Constructor_Injection\obj\Debug\netcoreapp3.1\Constructor_Injection.AssemblyInfo.cs
+C:\Users\Suryash\source\repos\Constructor_Injection\Constructor_Injection\obj\Debug\netcoreapp3.1\Constructor_Injection.csproj.CoreCompileInputs.cache
+C:\Users\Suryash\source\repos\Constructor_Injection\Constructor_Injection\obj\Debug\netcoreapp3.1\Constructor_Injection.dll
+C:\Users\Suryash\source\repos\Constructor_Injection\Constructor_Injection\obj\Debug\netcoreapp3.1\Constructor_Injection.pdb
+C:\Users\Suryash\source\repos\Constructor_Injection\Constructor_Injection\obj\Debug\netcoreapp3.1\Constructor_Injection.genruntimeconfig.cache
