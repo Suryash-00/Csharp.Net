@@ -1,0 +1,14 @@
+C:\Users\Suryash\source\repos\Enums_Tutorial\Enums_Tutorial\bin\Debug\netcoreapp3.1\Enums_Tutorial.exe
+C:\Users\Suryash\source\repos\Enums_Tutorial\Enums_Tutorial\bin\Debug\netcoreapp3.1\Enums_Tutorial.deps.json
+C:\Users\Suryash\source\repos\Enums_Tutorial\Enums_Tutorial\bin\Debug\netcoreapp3.1\Enums_Tutorial.runtimeconfig.json
+C:\Users\Suryash\source\repos\Enums_Tutorial\Enums_Tutorial\bin\Debug\netcoreapp3.1\Enums_Tutorial.runtimeconfig.dev.json
+C:\Users\Suryash\source\repos\Enums_Tutorial\Enums_Tutorial\bin\Debug\netcoreapp3.1\Enums_Tutorial.dll
+C:\Users\Suryash\source\repos\Enums_Tutorial\Enums_Tutorial\bin\Debug\netcoreapp3.1\Enums_Tutorial.pdb
+C:\Users\Suryash\source\repos\Enums_Tutorial\Enums_Tutorial\obj\Debug\netcoreapp3.1\Enums_Tutorial.csproj.AssemblyReference.cache
+C:\Users\Suryash\source\repos\Enums_Tutorial\Enums_Tutorial\obj\Debug\netcoreapp3.1\Enums_Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suryash\source\repos\Enums_Tutorial\Enums_Tutorial\obj\Debug\netcoreapp3.1\Enums_Tutorial.AssemblyInfoInputs.cache
+C:\Users\Suryash\source\repos\Enums_Tutorial\Enums_Tutorial\obj\Debug\netcoreapp3.1\Enums_Tutorial.AssemblyInfo.cs
+C:\Users\Suryash\source\repos\Enums_Tutorial\Enums_Tutorial\obj\Debug\netcoreapp3.1\Enums_Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Suryash\source\repos\Enums_Tutorial\Enums_Tutorial\obj\Debug\netcoreapp3.1\Enums_Tutorial.dll
+C:\Users\Suryash\source\repos\Enums_Tutorial\Enums_Tutorial\obj\Debug\netcoreapp3.1\Enums_Tutorial.pdb
+C:\Users\Suryash\source\repos\Enums_Tutorial\Enums_Tutorial\obj\Debug\netcoreapp3.1\Enums_Tutorial.genruntimeconfig.cache

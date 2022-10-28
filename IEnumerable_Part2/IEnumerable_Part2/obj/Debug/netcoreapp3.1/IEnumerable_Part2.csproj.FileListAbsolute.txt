@@ -1,0 +1,14 @@
+C:\Users\Suryash\source\repos\IEnumerable_Part2\IEnumerable_Part2\bin\Debug\netcoreapp3.1\IEnumerable_Part2.exe
+C:\Users\Suryash\source\repos\IEnumerable_Part2\IEnumerable_Part2\bin\Debug\netcoreapp3.1\IEnumerable_Part2.deps.json
+C:\Users\Suryash\source\repos\IEnumerable_Part2\IEnumerable_Part2\bin\Debug\netcoreapp3.1\IEnumerable_Part2.runtimeconfig.json
+C:\Users\Suryash\source\repos\IEnumerable_Part2\IEnumerable_Part2\bin\Debug\netcoreapp3.1\IEnumerable_Part2.runtimeconfig.dev.json
+C:\Users\Suryash\source\repos\IEnumerable_Part2\IEnumerable_Part2\bin\Debug\netcoreapp3.1\IEnumerable_Part2.dll
+C:\Users\Suryash\source\repos\IEnumerable_Part2\IEnumerable_Part2\bin\Debug\netcoreapp3.1\IEnumerable_Part2.pdb
+C:\Users\Suryash\source\repos\IEnumerable_Part2\IEnumerable_Part2\obj\Debug\netcoreapp3.1\IEnumerable_Part2.csproj.AssemblyReference.cache
+C:\Users\Suryash\source\repos\IEnumerable_Part2\IEnumerable_Part2\obj\Debug\netcoreapp3.1\IEnumerable_Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suryash\source\repos\IEnumerable_Part2\IEnumerable_Part2\obj\Debug\netcoreapp3.1\IEnumerable_Part2.AssemblyInfoInputs.cache
+C:\Users\Suryash\source\repos\IEnumerable_Part2\IEnumerable_Part2\obj\Debug\netcoreapp3.1\IEnumerable_Part2.AssemblyInfo.cs
+C:\Users\Suryash\source\repos\IEnumerable_Part2\IEnumerable_Part2\obj\Debug\netcoreapp3.1\IEnumerable_Part2.csproj.CoreCompileInputs.cache
+C:\Users\Suryash\source\repos\IEnumerable_Part2\IEnumerable_Part2\obj\Debug\netcoreapp3.1\IEnumerable_Part2.dll
+C:\Users\Suryash\source\repos\IEnumerable_Part2\IEnumerable_Part2\obj\Debug\netcoreapp3.1\IEnumerable_Part2.pdb
+C:\Users\Suryash\source\repos\IEnumerable_Part2\IEnumerable_Part2\obj\Debug\netcoreapp3.1\IEnumerable_Part2.genruntimeconfig.cache
