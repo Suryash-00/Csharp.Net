@@ -1,0 +1,54 @@
+﻿@model ForecastApp.ForecastAppModels.City
+
+@{
+    ViewData["Title"] = "City";
+}
+
+<div class="container">
+
+    <div class="container">
+
+        <div class="form-group col-md-offset-3 col-md-5">
+
+            <h2>Forecast for the selected city</h2>
+
+            <label asp-for="Name"></label>
+            <span class="badge">@Model.Name</span>
+            <br />
+
+            <label asp-for="Temp"></label>
+            <span class="badge">@Model.Temp °C</span>
+            <br />
+
+            <label asp-for="Humidity"></label>
+            <span class="badge">@Model.Humidity %</span>
+            <br />
+
+            <label asp-for="Pressure"></label>
+            <span class="badge">@Model.Pressure Hpa</span>
+            <br />
+
+            <label asp-for="Wind"></label>
+            <span class="badge">@Model.Wind Km/h</span>
+            <br />
+
+            <label asp-for="Weather"></label>
+            <span class="badge">@Model.Weather</span>
+
+        </div>
+
+    </div>
+
+    <div class="container">
+
+        <div class="form-group col-md-offset-3 col-md-5">
+
+            <form method="get">
+                <button asp-controller="ForecastApp" asp-action="SearchCity" class="btn btn-success">Return</button>
+            </form>
+
+        </div>
+
+    </div>
+
+</div>

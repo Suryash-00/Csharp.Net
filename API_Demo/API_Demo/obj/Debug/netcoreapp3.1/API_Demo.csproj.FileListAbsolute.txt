@@ -1,0 +1,17 @@
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\bin\Debug\netcoreapp3.1\API_Demo.exe
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\bin\Debug\netcoreapp3.1\API_Demo.deps.json
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\bin\Debug\netcoreapp3.1\API_Demo.runtimeconfig.json
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\bin\Debug\netcoreapp3.1\API_Demo.runtimeconfig.dev.json
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\bin\Debug\netcoreapp3.1\API_Demo.dll
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\bin\Debug\netcoreapp3.1\API_Demo.pdb
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\obj\Debug\netcoreapp3.1\API_Demo.csproj.AssemblyReference.cache
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\obj\Debug\netcoreapp3.1\API_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\obj\Debug\netcoreapp3.1\API_Demo.AssemblyInfoInputs.cache
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\obj\Debug\netcoreapp3.1\API_Demo.AssemblyInfo.cs
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\obj\Debug\netcoreapp3.1\API_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\obj\Debug\netcoreapp3.1\API_Demo.dll
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\obj\Debug\netcoreapp3.1\API_Demo.pdb
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\obj\Debug\netcoreapp3.1\API_Demo.genruntimeconfig.cache
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\obj\Debug\netcoreapp3.1\API_Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\obj\Debug\netcoreapp3.1\staticwebassets\API_Demo.StaticWebAssets.Manifest.cache
+C:\Users\Suryash\source\repos\API_Demo\API_Demo\obj\Debug\netcoreapp3.1\API_Demo.RazorTargetAssemblyInfo.cache
