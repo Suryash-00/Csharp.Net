@@ -1,13 +1,14 @@
 ﻿using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace HttpClientApi
+namespace MakingHttpRequest
 {
     public interface IWeatherService
     {
         Task<string> Get(string cityName);
     }
-    public class WeatherService
+
+    public class WeatherService : IWeatherService
     {
         private HttpClient _httpClient;
 
@@ -18,11 +19,11 @@ namespace HttpClientApi
 
         public async Task<string> Get(string cityName)
         {
-            var apiKey = "<GET YOUR API KEY HERE https://www.weatherapi.com/>";
+            var apiKey = "bca4ef7badc0404895464710220211";
 
             string APIURL = $"?key={apiKey}&q={cityName}";
             var response = await _httpClient.GetAsync(APIURL);
-            response.EnsureSuccessStatusCode();     //to check if it's giving proper run code
+            response.EnsureSuccessStatusCode();
             return await response.Content.ReadAsStringAsync();
         }
     }
