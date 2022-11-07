@@ -23,7 +23,6 @@ namespace MakingHttpRequest
 
             string APIURL = $"?key={apiKey}&q={cityName}";
             var response = await _httpClient.GetAsync(APIURL);
-            response.EnsureSuccessStatusCode();
             return await response.Content.ReadAsStringAsync();
         }
     }

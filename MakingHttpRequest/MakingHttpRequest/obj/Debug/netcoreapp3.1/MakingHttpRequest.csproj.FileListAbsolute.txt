@@ -17,7 +17,11 @@ C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\obj\Debug\netc
 C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\obj\Debug\netcoreapp3.1\MakingHttpRequest.dll
 C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\obj\Debug\netcoreapp3.1\MakingHttpRequest.pdb
 C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\obj\Debug\netcoreapp3.1\MakingHttpRequest.genruntimeconfig.cache
-C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
-C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\bin\Debug\netcoreapp3.1\Polly.dll
-C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
 C:\Users\Suryash\source\repos\MakingHttpRequest\MakingHttpRequest\obj\Debug\netcoreapp3.1\MakingHttpRequest.csproj.CopyComplete
