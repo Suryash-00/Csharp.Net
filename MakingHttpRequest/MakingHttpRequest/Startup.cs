@@ -26,7 +26,6 @@ namespace MakingHttpRequest
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
             services.AddControllersWithViews().AddXmlSerializerFormatters();
             
             services.AddControllers();
@@ -35,6 +34,14 @@ namespace MakingHttpRequest
             {
                 Console.Write(options);
                 options.ReturnHttpNotAcceptable = true;
+            });
+
+            services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(builder =>
+                {
+                    builder.AllowAnyOrigin();
+                });
             });
             
             services.AddHttpClient<IWeatherService, WeatherService>(c =>
@@ -49,14 +56,13 @@ namespace MakingHttpRequest
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            if (env.IsDevelopment())
-            {
-                app.UseDeveloperExceptionPage();
-            }
+            app.UseExceptionHandler("/error");
 
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseCors();
 
             app.UseAuthentication();
 

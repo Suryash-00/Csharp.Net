@@ -24,6 +24,7 @@ namespace MakingHttpRequest.Controllers
         [HttpGet]
         public async Task<string> Get(string cityName)
         {
+            throw new Exception("Error Page");
             return await _weatherService.Get(cityName);
         }
     }
